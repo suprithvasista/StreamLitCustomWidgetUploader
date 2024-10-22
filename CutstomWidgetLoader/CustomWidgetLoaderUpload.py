@@ -67,7 +67,7 @@ def file_upload_widget():
                 return ()
         return ()
     except Exception as e:
-        print("Error", e)
+        #print("Error", e)
         print('NO Files')
 
 
