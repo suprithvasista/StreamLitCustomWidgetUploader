@@ -20,4 +20,4 @@ if __name__ == "__main__":\
 
 \
 Photo Sample:\
-  !["Uploader Widget"](Uploader_button.png)
+  !["Uploader Widget"](https://github.com/suprithvasista/StreamLitCustomWidgetUploader/blob/main/Uploader_button.png?raw=true)
